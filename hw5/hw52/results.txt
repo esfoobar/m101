@@ -1,0 +1,1715 @@
+MongoDB shell version: 2.4.9
+connecting to: test
+switched to db cities
+{
+	"result" : [
+		{
+			"_id" : {
+				"city" : "NEW BRUNSWICK",
+				"state" : "NJ"
+			},
+			"pop" : 41710
+		},
+		{
+			"_id" : {
+				"city" : "SOMERSET",
+				"state" : "NJ"
+			},
+			"pop" : 36850
+		},
+		{
+			"_id" : {
+				"city" : "OLD BRIDGE",
+				"state" : "NJ"
+			},
+			"pop" : 33884
+		},
+		{
+			"_id" : {
+				"city" : "PISCATAWAY",
+				"state" : "NJ"
+			},
+			"pop" : 47038
+		},
+		{
+			"_id" : {
+				"city" : "EAST BRUNSWICK",
+				"state" : "NJ"
+			},
+			"pop" : 42319
+		},
+		{
+			"_id" : {
+				"city" : "BRIDGEWATER",
+				"state" : "NJ"
+			},
+			"pop" : 26496
+		},
+		{
+			"_id" : {
+				"city" : "BAY HEAD",
+				"state" : "NJ"
+			},
+			"pop" : 25071
+		},
+		{
+			"_id" : {
+				"city" : "OSBORNSVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 28128
+		},
+		{
+			"_id" : {
+				"city" : "LAKEWOOD",
+				"state" : "NJ"
+			},
+			"pop" : 47458
+		},
+		{
+			"_id" : {
+				"city" : "LAWRENCEVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 25497
+		},
+		{
+			"_id" : {
+				"city" : "HAMILTON",
+				"state" : "NJ"
+			},
+			"pop" : 54936
+		},
+		{
+			"_id" : {
+				"city" : "NORTH BRANCH",
+				"state" : "NJ"
+			},
+			"pop" : 34212
+		},
+		{
+			"_id" : {
+				"city" : "PRINCETON",
+				"state" : "NJ"
+			},
+			"pop" : 33831
+		},
+		{
+			"_id" : {
+				"city" : "ATLANTIC CITY",
+				"state" : "NJ"
+			},
+			"pop" : 31907
+		},
+		{
+			"_id" : {
+				"city" : "MILLVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 36591
+		},
+		{
+			"_id" : {
+				"city" : "TOMS RIVER",
+				"state" : "NJ"
+			},
+			"pop" : 87795
+		},
+		{
+			"_id" : {
+				"city" : "SEABROOK",
+				"state" : "NJ"
+			},
+			"pop" : 45485
+		},
+		{
+			"_id" : {
+				"city" : "TRENTON",
+				"state" : "NJ"
+			},
+			"pop" : 67262
+		},
+		{
+			"_id" : {
+				"city" : "SMITHVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 26645
+		},
+		{
+			"_id" : {
+				"city" : "CAMDEN",
+				"state" : "NJ"
+			},
+			"pop" : 60825
+		},
+		{
+			"_id" : {
+				"city" : "HIGHTSTOWN",
+				"state" : "NJ"
+			},
+			"pop" : 25674
+		},
+		{
+			"_id" : {
+				"city" : "EASTAMPTON TWP",
+				"state" : "NJ"
+			},
+			"pop" : 31606
+		},
+		{
+			"_id" : {
+				"city" : "MEDFORD LAKES",
+				"state" : "NJ"
+			},
+			"pop" : 25033
+		},
+		{
+			"_id" : {
+				"city" : "MOUNT LAUREL",
+				"state" : "NJ"
+			},
+			"pop" : 29805
+		},
+		{
+			"_id" : {
+				"city" : "WASHINGTON",
+				"state" : "NJ"
+			},
+			"pop" : 35874
+		},
+		{
+			"_id" : {
+				"city" : "CHERRY HILL",
+				"state" : "NJ"
+			},
+			"pop" : 29058
+		},
+		{
+			"_id" : {
+				"city" : "BRICK",
+				"state" : "NJ"
+			},
+			"pop" : 34507
+		},
+		{
+			"_id" : {
+				"city" : "MILFORD",
+				"state" : "CT"
+			},
+			"pop" : 49940
+		},
+		{
+			"_id" : {
+				"city" : "MORRISTOWN",
+				"state" : "NJ"
+			},
+			"pop" : 38516
+		},
+		{
+			"_id" : {
+				"city" : "WEEHAWKEN",
+				"state" : "NJ"
+			},
+			"pop" : 69646
+		},
+		{
+			"_id" : {
+				"city" : "MIDDLETOWN",
+				"state" : "CT"
+			},
+			"pop" : 42846
+		},
+		{
+			"_id" : {
+				"city" : "IRVINGTON",
+				"state" : "NJ"
+			},
+			"pop" : 60986
+		},
+		{
+			"_id" : {
+				"city" : "FREDON TOWNSHIP",
+				"state" : "NJ"
+			},
+			"pop" : 25022
+		},
+		{
+			"_id" : {
+				"city" : "MATAWAN",
+				"state" : "NJ"
+			},
+			"pop" : 26130
+		},
+		{
+			"_id" : {
+				"city" : "MINE HILL",
+				"state" : "NJ"
+			},
+			"pop" : 25588
+		},
+		{
+			"_id" : {
+				"city" : "OCEAN",
+				"state" : "NJ"
+			},
+			"pop" : 35939
+		},
+		{
+			"_id" : {
+				"city" : "HOWELL",
+				"state" : "NJ"
+			},
+			"pop" : 31114
+		},
+		{
+			"_id" : {
+				"city" : "MANALAPAN",
+				"state" : "NJ"
+			},
+			"pop" : 28928
+		},
+		{
+			"_id" : {
+				"city" : "PATERSON",
+				"state" : "NJ"
+			},
+			"pop" : 33364
+		},
+		{
+			"_id" : {
+				"city" : "JACKSON",
+				"state" : "NJ"
+			},
+			"pop" : 33075
+		},
+		{
+			"_id" : {
+				"city" : "NUTLEY",
+				"state" : "NJ"
+			},
+			"pop" : 26441
+		},
+		{
+			"_id" : {
+				"city" : "WAYNE",
+				"state" : "NJ"
+			},
+			"pop" : 46815
+		},
+		{
+			"_id" : {
+				"city" : "PLEASANTVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 30292
+		},
+		{
+			"_id" : {
+				"city" : "HARTFORD",
+				"state" : "CT"
+			},
+			"pop" : 77555
+		},
+		{
+			"_id" : {
+				"city" : "UNION",
+				"state" : "NJ"
+			},
+			"pop" : 46608
+		},
+		{
+			"_id" : {
+				"city" : "NEPTUNE CITY",
+				"state" : "NJ"
+			},
+			"pop" : 32147
+		},
+		{
+			"_id" : {
+				"city" : "ELIZABETH",
+				"state" : "NJ"
+			},
+			"pop" : 86416
+		},
+		{
+			"_id" : {
+				"city" : "TRUMBULL",
+				"state" : "CT"
+			},
+			"pop" : 32213
+		},
+		{
+			"_id" : {
+				"city" : "BELLEVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 34924
+		},
+		{
+			"_id" : {
+				"city" : "NEW BRITAIN",
+				"state" : "CT"
+			},
+			"pop" : 66700
+		},
+		{
+			"_id" : {
+				"city" : "BAYONNE",
+				"state" : "NJ"
+			},
+			"pop" : 61444
+		},
+		{
+			"_id" : {
+				"city" : "FORT LEE",
+				"state" : "NJ"
+			},
+			"pop" : 32030
+		},
+		{
+			"_id" : {
+				"city" : "ORANGE",
+				"state" : "NJ"
+			},
+			"pop" : 28789
+		},
+		{
+			"_id" : {
+				"city" : "NEWARK",
+				"state" : "NJ"
+			},
+			"pop" : 253984
+		},
+		{
+			"_id" : {
+				"city" : "STAMFORD",
+				"state" : "CT"
+			},
+			"pop" : 54605
+		},
+		{
+			"_id" : {
+				"city" : "WATERBURY",
+				"state" : "CT"
+			},
+			"pop" : 78807
+		},
+		{
+			"_id" : {
+				"city" : "NORTH BERGEN",
+				"state" : "NJ"
+			},
+			"pop" : 50823
+		},
+		{
+			"_id" : {
+				"city" : "TEANECK",
+				"state" : "NJ"
+			},
+			"pop" : 37822
+		},
+		{
+			"_id" : {
+				"city" : "RAHWAY",
+				"state" : "NJ"
+			},
+			"pop" : 25296
+		},
+		{
+			"_id" : {
+				"city" : "PERTH AMBOY",
+				"state" : "NJ"
+			},
+			"pop" : 43920
+		},
+		{
+			"_id" : {
+				"city" : "LIVINGSTON",
+				"state" : "NJ"
+			},
+			"pop" : 26677
+		},
+		{
+			"_id" : {
+				"city" : "NORTH BRUNSWICK",
+				"state" : "NJ"
+			},
+			"pop" : 31071
+		},
+		{
+			"_id" : {
+				"city" : "EDISON",
+				"state" : "NJ"
+			},
+			"pop" : 74826
+		},
+		{
+			"_id" : {
+				"city" : "DEPTFORD",
+				"state" : "NJ"
+			},
+			"pop" : 34147
+		},
+		{
+			"_id" : {
+				"city" : "LINDEN",
+				"state" : "NJ"
+			},
+			"pop" : 37859
+		},
+		{
+			"_id" : {
+				"city" : "TORRINGTON",
+				"state" : "CT"
+			},
+			"pop" : 33969
+		},
+		{
+			"_id" : {
+				"city" : "BLOOMFIELD",
+				"state" : "NJ"
+			},
+			"pop" : 46131
+		},
+		{
+			"_id" : {
+				"city" : "CLIFTON",
+				"state" : "NJ"
+			},
+			"pop" : 57072
+		},
+		{
+			"_id" : {
+				"city" : "GARFIELD",
+				"state" : "NJ"
+			},
+			"pop" : 26727
+		},
+		{
+			"_id" : {
+				"city" : "BURLINGTON",
+				"state" : "NJ"
+			},
+			"pop" : 25065
+		},
+		{
+			"_id" : {
+				"city" : "SOUTHINGTON",
+				"state" : "CT"
+			},
+			"pop" : 28567
+		},
+		{
+			"_id" : {
+				"city" : "BRIDGEPORT",
+				"state" : "CT"
+			},
+			"pop" : 70098
+		},
+		{
+			"_id" : {
+				"city" : "HOBOKEN",
+				"state" : "NJ"
+			},
+			"pop" : 33397
+		},
+		{
+			"_id" : {
+				"city" : "PARSIPPANY",
+				"state" : "NJ"
+			},
+			"pop" : 27179
+		},
+		{
+			"_id" : {
+				"city" : "WILLINGBORO",
+				"state" : "NJ"
+			},
+			"pop" : 36471
+		},
+		{
+			"_id" : {
+				"city" : "NORWALK",
+				"state" : "CT"
+			},
+			"pop" : 25358
+		},
+		{
+			"_id" : {
+				"city" : "SICKLERVILLE",
+				"state" : "NJ"
+			},
+			"pop" : 29949
+		},
+		{
+			"_id" : {
+				"city" : "WEST ORANGE",
+				"state" : "NJ"
+			},
+			"pop" : 38639
+		},
+		{
+			"_id" : {
+				"city" : "BRANFORD",
+				"state" : "CT"
+			},
+			"pop" : 27726
+		},
+		{
+			"_id" : {
+				"city" : "EAST HARTFORD",
+				"state" : "CT"
+			},
+			"pop" : 26754
+		},
+		{
+			"_id" : {
+				"city" : "PASSAIC",
+				"state" : "NJ"
+			},
+			"pop" : 58325
+		},
+		{
+			"_id" : {
+				"city" : "MAPLE HILL",
+				"state" : "CT"
+			},
+			"pop" : 29192
+		},
+		{
+			"_id" : {
+				"city" : "FAIRFIELD",
+				"state" : "CT"
+			},
+			"pop" : 40889
+		},
+		{
+			"_id" : {
+				"city" : "DANBURY",
+				"state" : "CT"
+			},
+			"pop" : 65373
+		},
+		{
+			"_id" : {
+				"city" : "KEARNY",
+				"state" : "NJ"
+			},
+			"pop" : 34869
+		},
+		{
+			"_id" : {
+				"city" : "VINELAND",
+				"state" : "NJ"
+			},
+			"pop" : 56319
+		},
+		{
+			"_id" : {
+				"city" : "WILLIAMSTOWN",
+				"state" : "NJ"
+			},
+			"pop" : 30978
+		},
+		{
+			"_id" : {
+				"city" : "EAST HAVEN",
+				"state" : "CT"
+			},
+			"pop" : 60305
+		},
+		{
+			"_id" : {
+				"city" : "STRATFORD",
+				"state" : "CT"
+			},
+			"pop" : 49495
+		},
+		{
+			"_id" : {
+				"city" : "WALLINGFORD",
+				"state" : "CT"
+			},
+			"pop" : 40838
+		},
+		{
+			"_id" : {
+				"city" : "OLD TAPPAN",
+				"state" : "NJ"
+			},
+			"pop" : 39036
+		},
+		{
+			"_id" : {
+				"city" : "HACKENSACK",
+				"state" : "NJ"
+			},
+			"pop" : 36963
+		},
+		{
+			"_id" : {
+				"city" : "CHESHIRE",
+				"state" : "CT"
+			},
+			"pop" : 25684
+		},
+		{
+			"_id" : {
+				"city" : "LONG BRANCH",
+				"state" : "NJ"
+			},
+			"pop" : 29053
+		},
+		{
+			"_id" : {
+				"city" : "WESTFIELD",
+				"state" : "NJ"
+			},
+			"pop" : 31885
+		},
+		{
+			"_id" : {
+				"city" : "NEW LONDON",
+				"state" : "CT"
+			},
+			"pop" : 28367
+		},
+		{
+			"_id" : {
+				"city" : "SOUTHAMPTON",
+				"state" : "NJ"
+			},
+			"pop" : 25480
+		},
+		{
+			"_id" : {
+				"city" : "LAUREL SPRINGS",
+				"state" : "NJ"
+			},
+			"pop" : 48953
+		},
+		{
+			"_id" : {
+				"city" : "VERNON ROCKVILLE",
+				"state" : "CT"
+			},
+			"pop" : 31966
+		},
+		{
+			"_id" : {
+				"city" : "WEST HAVEN",
+				"state" : "CT"
+			},
+			"pop" : 53642
+		},
+		{
+			"_id" : {
+				"city" : "FREEHOLD",
+				"state" : "NJ"
+			},
+			"pop" : 42567
+		},
+		{
+			"_id" : {
+				"city" : "NORWICH",
+				"state" : "CT"
+			},
+			"pop" : 30145
+		},
+		{
+			"_id" : {
+				"city" : "FAIR LAWN",
+				"state" : "NJ"
+			},
+			"pop" : 30522
+		},
+		{
+			"_id" : {
+				"city" : "NEW HAVEN",
+				"state" : "CT"
+			},
+			"pop" : 54142
+		},
+		{
+			"_id" : {
+				"city" : "NAUGATUCK",
+				"state" : "CT"
+			},
+			"pop" : 30625
+		},
+		{
+			"_id" : {
+				"city" : "ALPHA",
+				"state" : "NJ"
+			},
+			"pop" : 28782
+		},
+		{
+			"_id" : {
+				"city" : "GROTON",
+				"state" : "CT"
+			},
+			"pop" : 32435
+		},
+		{
+			"_id" : {
+				"city" : "ENFIELD",
+				"state" : "CT"
+			},
+			"pop" : 45558
+		},
+		{
+			"_id" : {
+				"city" : "EAST ORANGE",
+				"state" : "NJ"
+			},
+			"pop" : 74355
+		},
+		{
+			"_id" : {
+				"city" : "WETHERSFIELD",
+				"state" : "CT"
+			},
+			"pop" : 25583
+		},
+		{
+			"_id" : {
+				"city" : "GUTTENBERG",
+				"state" : "NJ"
+			},
+			"pop" : 44735
+		},
+		{
+			"_id" : {
+				"city" : "BRISTOL",
+				"state" : "CT"
+			},
+			"pop" : 60670
+		},
+		{
+			"_id" : {
+				"city" : "WINDSOR",
+				"state" : "CT"
+			},
+			"pop" : 27815
+		},
+		{
+			"_id" : {
+				"city" : "JERSEY CITY",
+				"state" : "NJ"
+			},
+			"pop" : 227593
+		},
+		{
+			"_id" : {
+				"city" : "SHELTON",
+				"state" : "CT"
+			},
+			"pop" : 35447
+		},
+		{
+			"_id" : {
+				"city" : "MERIDEN",
+				"state" : "CT"
+			},
+			"pop" : 59441
+		},
+		{
+			"_id" : {
+				"city" : "MARLTON",
+				"state" : "NJ"
+			},
+			"pop" : 33299
+		},
+		{
+			"_id" : {
+				"city" : "PARAMUS",
+				"state" : "NJ"
+			},
+			"pop" : 25085
+		},
+		{
+			"_id" : {
+				"city" : "NORTH PLAINFIELD",
+				"state" : "NJ"
+			},
+			"pop" : 43471
+		},
+		{
+			"_id" : {
+				"city" : "MANCHESTER",
+				"state" : "CT"
+			},
+			"pop" : 51618
+		}
+	],
+	"ok" : 1
+}
+{
+	"result" : [
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NEWARK"
+			},
+			"pop" : 275572
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "CLIFTON"
+			},
+			"pop" : 71467
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "TEANECK"
+			},
+			"pop" : 37822
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PATERSON"
+			},
+			"pop" : 141382
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BURLINGTON"
+			},
+			"pop" : 25065
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "EDISON"
+			},
+			"pop" : 84273
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "BRANFORD"
+			},
+			"pop" : 27726
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "MERIDEN"
+			},
+			"pop" : 59441
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "KEARNY"
+			},
+			"pop" : 50456
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "SICKLERVILLE"
+			},
+			"pop" : 29949
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BAYONNE"
+			},
+			"pop" : 61444
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "TORRINGTON"
+			},
+			"pop" : 33969
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "FAIR LAWN"
+			},
+			"pop" : 30522
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "CHERRY HILL"
+			},
+			"pop" : 69165
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "ELIZABETH"
+			},
+			"pop" : 110246
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "NORWALK"
+			},
+			"pop" : 78392
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MANALAPAN"
+			},
+			"pop" : 28928
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "GROTON"
+			},
+			"pop" : 37833
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NEW BRUNSWICK"
+			},
+			"pop" : 41710
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NORTH BRANCH"
+			},
+			"pop" : 34212
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "SOMERSET"
+			},
+			"pop" : 36850
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "OLD BRIDGE"
+			},
+			"pop" : 33884
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PISCATAWAY"
+			},
+			"pop" : 47038
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "EAST BRUNSWICK"
+			},
+			"pop" : 42319
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "TOMS RIVER"
+			},
+			"pop" : 102687
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BAY HEAD"
+			},
+			"pop" : 25071
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BRICK"
+			},
+			"pop" : 34507
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "LAKEWOOD"
+			},
+			"pop" : 47458
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "LAWRENCEVILLE"
+			},
+			"pop" : 25497
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "HAMILTON"
+			},
+			"pop" : 109581
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "HIGHTSTOWN"
+			},
+			"pop" : 25674
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "VINELAND"
+			},
+			"pop" : 56319
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MILLVILLE"
+			},
+			"pop" : 36591
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PLEASANTVILLE"
+			},
+			"pop" : 30292
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "DEPTFORD"
+			},
+			"pop" : 34147
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WILLIAMSTOWN"
+			},
+			"pop" : 30978
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "SOUTHAMPTON"
+			},
+			"pop" : 25480
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "EASTAMPTON TWP"
+			},
+			"pop" : 31606
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MEDFORD LAKES"
+			},
+			"pop" : 25033
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MOUNT LAUREL"
+			},
+			"pop" : 29805
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MARLTON"
+			},
+			"pop" : 33299
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MINE HILL"
+			},
+			"pop" : 25588
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NEPTUNE CITY"
+			},
+			"pop" : 32147
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "HOWELL"
+			},
+			"pop" : 31114
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "FREEHOLD"
+			},
+			"pop" : 42567
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "OCEAN"
+			},
+			"pop" : 35939
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WAYNE"
+			},
+			"pop" : 46815
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "JERSEY CITY"
+			},
+			"pop" : 228537
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "IRVINGTON"
+			},
+			"pop" : 60986
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NUTLEY"
+			},
+			"pop" : 26441
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "GUTTENBERG"
+			},
+			"pop" : 44735
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "RAHWAY"
+			},
+			"pop" : 25296
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WEST ORANGE"
+			},
+			"pop" : 38639
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "ORANGE"
+			},
+			"pop" : 28789
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NORTH BERGEN"
+			},
+			"pop" : 50823
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "LINDEN"
+			},
+			"pop" : 37859
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "HOBOKEN"
+			},
+			"pop" : 33397
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "EAST ORANGE"
+			},
+			"pop" : 74355
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NORTH BRUNSWICK"
+			},
+			"pop" : 31071
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "LONG BRANCH"
+			},
+			"pop" : 29053
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "DANBURY"
+			},
+			"pop" : 65373
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "ALPHA"
+			},
+			"pop" : 28782
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "WEST HAVEN"
+			},
+			"pop" : 53642
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "NORTH PLAINFIELD"
+			},
+			"pop" : 70512
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "TRENTON"
+			},
+			"pop" : 68089
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "HACKENSACK"
+			},
+			"pop" : 36963
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "BRISTOL"
+			},
+			"pop" : 60670
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "ENFIELD"
+			},
+			"pop" : 45558
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BRIDGEWATER"
+			},
+			"pop" : 26496
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "STAMFORD"
+			},
+			"pop" : 90154
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "UNION"
+			},
+			"pop" : 46608
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MONTCLAIR"
+			},
+			"pop" : 36829
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "EAST HAVEN"
+			},
+			"pop" : 60305
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "SMITHVILLE"
+			},
+			"pop" : 26645
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PARAMUS"
+			},
+			"pop" : 25085
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "TRUMBULL"
+			},
+			"pop" : 32213
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "WINDSOR"
+			},
+			"pop" : 27815
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WESTFIELD"
+			},
+			"pop" : 31885
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MATAWAN"
+			},
+			"pop" : 26130
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "SEABROOK"
+			},
+			"pop" : 45485
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WASHINGTON"
+			},
+			"pop" : 49283
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "NAUGATUCK"
+			},
+			"pop" : 30625
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "GARFIELD"
+			},
+			"pop" : 26727
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "NEW BRITAIN"
+			},
+			"pop" : 75498
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "NEW HAVEN"
+			},
+			"pop" : 96603
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "SHELTON"
+			},
+			"pop" : 35447
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "FREDON TOWNSHIP"
+			},
+			"pop" : 25022
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "FORT LEE"
+			},
+			"pop" : 32030
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "WATERBURY"
+			},
+			"pop" : 108681
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PERTH AMBOY"
+			},
+			"pop" : 43920
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "ATLANTIC CITY"
+			},
+			"pop" : 31907
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "NEW LONDON"
+			},
+			"pop" : 28367
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BLOOMFIELD"
+			},
+			"pop" : 46131
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PARSIPPANY"
+			},
+			"pop" : 27179
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "BRIDGEPORT"
+			},
+			"pop" : 141638
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "STRATFORD"
+			},
+			"pop" : 49495
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "SOUTHINGTON"
+			},
+			"pop" : 28567
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "MILFORD"
+			},
+			"pop" : 49940
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "MIDDLETOWN"
+			},
+			"pop" : 42846
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "FAIRFIELD"
+			},
+			"pop" : 49523
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "NORWICH"
+			},
+			"pop" : 30145
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "EAST HARTFORD"
+			},
+			"pop" : 50452
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "HARTFORD"
+			},
+			"pop" : 139685
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "MANCHESTER"
+			},
+			"pop" : 51618
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "CAMDEN"
+			},
+			"pop" : 88750
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "BELLEVILLE"
+			},
+			"pop" : 34924
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "WALLINGFORD"
+			},
+			"pop" : 40838
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "HAMDEN"
+			},
+			"pop" : 52289
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "W HARTFORD"
+			},
+			"pop" : 60123
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "OLD TAPPAN"
+			},
+			"pop" : 39036
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "JACKSON"
+			},
+			"pop" : 33075
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WILLINGBORO"
+			},
+			"pop" : 36471
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "MORRISTOWN"
+			},
+			"pop" : 38516
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PASSAIC"
+			},
+			"pop" : 58325
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "WEEHAWKEN"
+			},
+			"pop" : 69646
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "PRINCETON"
+			},
+			"pop" : 36506
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "WETHERSFIELD"
+			},
+			"pop" : 25583
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "MAPLE HILL"
+			},
+			"pop" : 29192
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "VERNON ROCKVILLE"
+			},
+			"pop" : 31966
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "LIVINGSTON"
+			},
+			"pop" : 26677
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "OSBORNSVILLE"
+			},
+			"pop" : 28128
+		},
+		{
+			"_id" : {
+				"state" : "CT",
+				"city" : "CHESHIRE"
+			},
+			"pop" : 25684
+		},
+		{
+			"_id" : {
+				"state" : "NJ",
+				"city" : "LAUREL SPRINGS"
+			},
+			"pop" : 48953
+		}
+	],
+	"ok" : 1
+}
+bye
